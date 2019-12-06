@@ -1,3 +1,3 @@
 # Spy
-Generate shell reverse backdoors
-Just for study.
+Generate shell reverse backdoors </br>
+Studying pentest.
